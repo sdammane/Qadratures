@@ -1,0 +1,8 @@
+n:2	I1_Lobatto sur [ 1,1.5]	:1.51562	 I2_Lobatto[0,0.5]	:inf	 I3_Lobatto[1,1.85914]	:0.920727	 I4_Lobatto[0,0.392699]	:inf
+n:2	I1_Lobatto sur [ 1.5,2]	:5.26562	 I2_Lobatto[0.5,1]	:0.603553	 I3_Lobatto[1.85914,2.71828]	:4.09485	 I4_Lobatto[0.392699,0.785398]	:0.458351
+n:3	I1_Lobatto sur [ 1,1.5]	:1.31901	 I2_Lobatto[0,0.5]	:inf	 I3_Lobatto[1,1.85914]	:0.725228	 I4_Lobatto[0,0.392699]	:inf
+n:3	I1_Lobatto sur [ 1.5,2]	:4.88151	 I2_Lobatto[0.5,1]	:0.586085	 I3_Lobatto[1.85914,2.71828]	:3.84911	 I4_Lobatto[0.392699,0.785398]	:0.444826
+n:4	I1_Lobatto sur [ 1,1.5]	:1.31875	 I2_Lobatto[0,0.5]	:inf	 I3_Lobatto[1,1.85914]	:0.72539	 I4_Lobatto[0,0.392699]	:inf
+n:4	I1_Lobatto sur [ 1.5,2]	:4.88125	 I2_Lobatto[0.5,1]	:0.585793	 I3_Lobatto[1.85914,2.71828]	:3.84917	 I4_Lobatto[0.392699,0.785398]	:0.44457
+n:5	I1_Lobatto sur [ 1,1.5]	:1.31875	 I2_Lobatto[0,0.5]	:inf	 I3_Lobatto[1,1.85914]	:0.725391	 I4_Lobatto[0,0.392699]	:inf
+n:5	I1_Lobatto sur [ 1.5,2]	:4.88125	 I2_Lobatto[0.5,1]	:0.585787	 I3_Lobatto[1.85914,2.71828]	:3.84917	 I4_Lobatto[0.392699,0.785398]	:0.444565
